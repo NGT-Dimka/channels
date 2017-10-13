@@ -156,6 +156,7 @@ Feel free to make a pull request with missing channel.
 - [ALL YOUR HTML (Юрий Артюх)](https://www.youtube.com/user/flintyara) — лайвстримы по вёрстке и анимации
 - [CSSSR](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) — лайвстримы, Vue.js
 - [.getInstance](https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg) — короткие обзоры возможностей JavaScript, браузерных API и инструментов
+- [ITVDN](https://www.youtube.com/user/CBSystematicsTV/featured) - JavaScript, HTML, CSS, Java, C# и многое другое
 
 ### Conferences and meetups recordings
 
